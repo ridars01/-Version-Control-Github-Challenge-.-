@@ -1,0 +1,9 @@
+1. Explain what the terminal is in your own words.
+	The terminal allows you to run commands to retrieve / manipulate file.Initially terminal was the only way to communicate with the computer when in need of creating a file or document. now  computers are equipped with tools like finder(that has GUI)  that have the ability to  retrieve a file when an individual inputs its name. 
+
+2. What is the major difference between Git and Github?
+	Git can :Tracks code history , takes snapshots of your file (when making a commit it takes a snapshot) , you can stage files before committing, its local (so doesn't require internet) , and it is also distributed: it can exist on many different computers. 
+	GitHub uses Git(copies or clones the repository) , it is online meaning that it has to be connected to the internet. It has user Management(it helps with collaboration). It also has Tool Integration :which develops new tools like the integration like slack.
+	Git creates a repository then pushes it to GitHub where it is easier for the user/ user's team to access the repository and or modify ii
+3. Why do we use Github?
+	GitHub is a platform for users to create easier collaboration when working on projects. GitHub allows individuals to access repository and modify it. It Also allows tool integration for communication such as slack. 
